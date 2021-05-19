@@ -16,9 +16,14 @@ git clone git://your.url.here
 git remote set-url origin git://new.url.here
 ```
 ## ! Important
-Delete the package.lock and .env file and re-create them for the safety reasons.
+- Delete the package.lock and .env file and re-create them for the safety reasons.
+- rename the folder "nodeJS-starter-file" to ypur repository's name
+- chack everything is working fine by typing
+```
+git remote -v
+```
 
-And yes! you are good to go! Just start building your awesome app.
+**And yes! You are good to go! Just start building your awesome app.**
 
 P.S: don't forget to do:
 ```sh
