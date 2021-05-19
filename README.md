@@ -29,3 +29,7 @@ P.S: don't forget to do:
 ```sh
 npm i
 ```
+and after changes:
+```
+git push
+```
